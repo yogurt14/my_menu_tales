@@ -1,0 +1,8 @@
+yogurt:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    host: localhost
+    port: 3306
+    database: menu_tales
+    username: root
+    password: Mitaowulong
